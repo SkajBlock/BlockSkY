@@ -1,7 +1,7 @@
 # <p align="center">Hi, J'm BlockSkY 🕺</p>
 ### <p align="center">I'm a student who has nothing to do in life and is learning programming 😜</p>
 
-## I work in:
+## 😊 I work in:
 - [FanthCloud](https://cloud.fanth.pl)
 - [Fanth](https://fanth.pl)
 - [Fantasium](https://fantasium.pl)
